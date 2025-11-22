@@ -1,15 +1,15 @@
-# Hi, I'm Shahan Iresh 👋
+# හායි, මම ෂහාන් ඉරේෂ් 👋
 **IT Explorer | Passionate About Code, Data & Discovery**
 
 ---
 
-## 🚀 About Me
+## 🚀 මා ගැන
 
 - 🧑‍🎓 **BSc (Hons) Data Science Undergraduate**
-- 💻 **Expertise Areas:** Full-Stack Development, Data Analytics, Graphic Design
-- 📫 **Reach me at:** shahaniresh7@gmail.com
-- 🎯 **Goal:** To become a proficient Full-Stack Developer and Data Scientist
-- 🌱 **Currently Learning:** Advanced React, Machine Learning, Cloud Computing
+- 💻 **විශේෂතා ප්‍රදේශ:** Full-Stack Development, Data Analytics, Graphic Design
+- 📫 **සම්බන්ධ වන්න:** shahaniresh7@gmail.com
+- 🎯 **ලක්‍යය:** Proficient Full-Stack Developer හා Data Scientist කෙනෙකු වීම
+- 🌱 **දැනුම් සොයන:** Advanced React, Machine Learning, Cloud Computing
 
 ---
 
@@ -76,7 +76,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 මා සමග සම්බන්ධ වන්න
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahan-iresh-374218374)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1bprpgzynx/)
@@ -87,20 +87,20 @@
 
 ---
 
-## 💙 Support My Work
+## 💙 මගේ වැඩ සඳහා සහාය දක්වන්න
 
-If you like what I do, you can support me by:
+ඔබට මගේ වැඩ අවශ්‍ය නම්:
 
-- ⭐ Starring my repositories
-- 🔔 Following my GitHub profile
-- 🤝 Connecting with me on professional platforms
+- ⭐ මගේ repositories star කිරීමෙන්
+- 🔔 මගේ GitHub profile follow කිරීමෙන්
+- 🤝 professional platforms වල මා සමග සම්බන්ධ වීමෙන්
 
 ---
 
 ###
 > **"In Data We Trust — Code. Analyze. Innovate."**
 
-Thanks for visiting my digital lab! Always exploring data, building intelligent systems, and learning every day. 🚀
+මගේ digital lab එකට පිවිසීමට ස්තුතියි! දත්ත ගවේෂණය කිරීම, බුද්ධිමත් පද්ධති ගොඩනැගීම, සහ සෑම දිනකම ඉගෙනීම දිගටම කරගෙන යනවා. 🚀
 
 ### 
 > **"Code is like humor. When you have to explain it, it's bad."** - Cory House
